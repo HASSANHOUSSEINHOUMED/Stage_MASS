@@ -1,3 +1,7 @@
-# Stage-LASTD
-J'ai écrit ces codes durant mon stage de LASTD pour pouvoir répondre à la problématique suivante : "Est-ce que les étudiants qui bénéficient du programme ASERI-ASEVD sont satisfaits par rapport à la quantité et à la qualité du repas fournit par les restaurants ?".
-Et dans ces codes, vous pourriez trouver tout ce qui est nécessaires pour réaliser des analyses statistiques descriptives et prédictives.
+# Contexte
+Analyse statistique réalisée durant mon stage en Licence Appliquée Statistiques et Traitements de Données (LASTD) pour évaluer la satisfaction des étudiants vis-à-vis du programme de restauration ASERI-ASEVD. 
+Le projet comprend :
+- Mise en place d'analyses statistiques descriptives pour évaluer la satisfaction globale
+- Développement de modèles prédictifs pour identifier les facteurs d'influence
+- Traitement et visualisation des données pour une prise de décision éclairée
+- Création de rapports d'analyse détaillés
